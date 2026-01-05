@@ -4,10 +4,7 @@ This documentation is designed for LLM integration to automatically fetch, push,
 
 ## Base URL
 
-```
-Production: https://your-app.replit.app
-Development: http://localhost:5000
-```
+https://spark360.cloud/
 
 ---
 
